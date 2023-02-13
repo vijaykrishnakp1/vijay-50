@@ -19,7 +19,7 @@ pipeline
                sh 'mvn package'
             }
         }
-
+    }
     post
     {
 
